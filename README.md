@@ -15,9 +15,13 @@ Biggest Uncertainty: This data set is relatively small, therefore it may have li
 
 **Candidate Project 2**
 
-Biomedical Problem: 
-Potential Research Question:
-Open Data Set:
-Biggest Uncertainty: 
+Biomedical Problem: The presence of endometrial lesions that can survive and grow outside the uterus.
+
+Potential Research Question: Which cellular and molecular pathways distinguish irregular endometrial lesions  and may contribute to disease progression?
+
+Open Data Set: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179640
+
+Biggest Uncertainty: This data set is relatively small, therefore it may have limited detection of subtler differences.
+
 
 
