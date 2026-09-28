@@ -7,7 +7,7 @@ Julii Ruta, Ashley Pehar, Sophia Hall, and Madalyn Arsenault
 
 Biomedical Problem: Affect of hormonal birth control on gene expression related to maintenance of extracellular matrix (ECM).
 
-Potential Research Question: How do the differences in hormonal exposure between women using hormonal birth control and those not affect MMP expression?
+Potential Research Question: Does hormonal contraceptive use alter expression of matrix metalloproteinase (MMP) genes in reproductive tissues compared with non-hormonal controls?
 
 Open Data Set: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137765&utm
 
