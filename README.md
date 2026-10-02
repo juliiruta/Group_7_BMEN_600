@@ -13,6 +13,8 @@ Open Data Set: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137765&utm
 
 Biggest Uncertainty: This data set is relatively small, therefore it may have limited detection of subtler differences.
 
+Probe ID Numbers to Gene Codes/Names: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL6244 (Data table at bottom of page) 
+
 
 
 **Candidate Project 2**
