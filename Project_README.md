@@ -28,8 +28,8 @@ Group_7_BMEN_600/
 │   ├── BMEN_600_Table_Data.ipynb
 │   └── README.md*
 └── References/
-    ├── Gene Symbol to Gene Names.pdf
-    └── README.md*
+│   ├── Gene Symbol to Gene Names.pdf
+│    └── README.md*
 ├── Project_README.md
 ├── Project_Schedule.md
 ```
