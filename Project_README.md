@@ -73,7 +73,7 @@ Required Python packages depend on the operations performed in the notebook and 
 
 **How to Run the Current Progress Check**
 
-1. Open BMEN_600_Table_Data.ipynb from the repository.
+1. Open Notebooks folder and navigate to the BMEN_600_Table_Data.ipynb from the repository.
 
 2. Open the notebook in Google Colab or a compatible Jupyter Notebook environment.
 
