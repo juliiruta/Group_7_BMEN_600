@@ -24,20 +24,23 @@ The repository contains the following files:
 
 ```
 Group_7_BMEN_600/
-├── Project_README.md
 ├── Notebooks/
 │   ├── BMEN_600_Table_Data.ipynb
 │   └── README.md*
 └── References/
     ├── Gene Symbol to Gene Names.pdf
     └── README.md*
+├── Project_README.md
+├── Project_Schedule.md
 ```
 
-1. Project_README.md — Project overview, research question, dataset sources, and project progress.
+1. Notebooks Folder  --> BMEN_600_Table_Data.ipynb — Python notebook containing the current data-processing and analysis workflow.
 
-2. Notebooks Folder  --> BMEN_600_Table_Data.ipynb — Python notebook containing the current data-processing and analysis workflow.
+2. References Folder --> Gene Symbol to Gene Names.pdf — Supporting reference for gene symbol and gene name identification.
 
-3. References Folder --> Gene Symbol to Gene Names.pdf — Supporting reference for gene symbol and gene name identification.
+3. Project_README.md — Project overview, research question, dataset sources, and project progress.
+
+4. Project_Schedule.md - Dates, tasks and division of work.
 
 *README.md files in folders supply folder descriptions only
 
