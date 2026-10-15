@@ -30,7 +30,7 @@ Group_7_BMEN_600/
 └── References/
 │   ├── Gene Symbol to Gene Names.pdf
 │    └── README.md*
-├── Project_README.md
+├── Project_Overview_README.md
 ├── Project_Schedule.md
 ```
 
@@ -38,7 +38,7 @@ Group_7_BMEN_600/
 
 2. References Folder --> Gene Symbol to Gene Names.pdf — Supporting reference for gene symbol and gene name identification.
 
-3. Project_README.md — Project overview, research question, dataset sources, and project progress.
+3. Project_Overview_README.md — Project overview, research question, dataset sources, and project progress.
 
 4. Project_Schedule.md - Dates, tasks and division of work.
 
