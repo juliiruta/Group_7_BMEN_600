@@ -15,9 +15,6 @@ Biggest Uncertainty: This data set is relatively small, therefore it may have li
 
 Probe ID Numbers to Gene Codes/Names: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL6244 (Data table at bottom of page) 
 
-Project Decision: 
-GO - We are proceeding with this research question and dataset.
-
 Project Plan: 
 
 <img width="590" height="707" alt="Screenshot 2026-10-02 at 1 58 52 PM" src="https://github.com/user-attachments/assets/a0ba5616-9589-4445-a20b-f5b115deb665" />
