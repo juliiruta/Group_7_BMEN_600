@@ -28,10 +28,12 @@ Project Plan:
 
 The repository contains the following files:
 
+```
 Group_7_BMEN_600/
-├── README.md
-├── BMEN_600_Table_Data.ipynb
-└── Gene Symbol to Gene Names.pdf
+  |-- README.md
+  |-- BMEN_600_Table_Data.ipynb
+  |-- Gene Symbol to Gene Names.pdf
+```
 
 1. README.md — Project overview, research question, dataset sources, and project progress.
 
