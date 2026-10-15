@@ -15,7 +15,7 @@ Biggest Uncertainty: This data set is relatively small, therefore it may have li
 
 Probe ID Numbers to Gene Codes/Names: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL6244 (Data table at bottom of page) 
 
-The project timeline, task assignments, and deadlines are provided in the Project Schedule.
+The project timeline, task assignments, and deadlines are provided in the [Project Schedule](Project_Schedule.md).
 
 
 **Repository Structure**
