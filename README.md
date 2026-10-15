@@ -24,3 +24,58 @@ Project Plan:
 <img width="591" height="614" alt="Screenshot 2026-10-02 at 1 59 24 PM" src="https://github.com/user-attachments/assets/4529ec08-f531-4bf7-bef9-31d5e21a7ef7" />
 
 
+**Repository Structure**
+
+The repository contains the following files:
+
+Group_7_BMEN_600/
+├── README.md
+├── BMEN_600_Table_Data.ipynb
+└── Gene Symbol to Gene Names.pdf
+
+1. README.md — Project overview, research question, dataset sources, and project progress.
+
+2. BMEN_600_Table_Data.ipynb — Python notebook containing the current data-processing and analysis workflow.
+
+3. Gene Symbol to Gene Names.pdf — Supporting reference for gene symbol and gene name identification.
+
+**Dataset Access**
+
+The gene expression dataset is available through the NCBI Gene Expression Omnibus (GEO):
+
+Gene expression dataset: GSE137765
+
+Probe annotation platform: GPL6244
+
+The required data files can be accessed through these resources. Large data matrices and probe ID files are not included in the repository because they exceed the permitted upload size. The notebook documents the work performed using these files.
+
+**Software and Requirements**
+
+The analysis is conducted using Python in a Jupyter Notebook environment through Google Colab.
+
+Required Python packages depend on the operations performed in the notebook and may include:
+
+- NumPy for numerical operations.
+
+- Pandas for data manipulation and analysis.
+
+- Matplotlib for data visualization, if used.
+  
+- Additional packages as required by the analysis.
+
+**How to Run the Current Progress Check**
+
+1. Open BMEN_600_Table_Data.ipynb from the repository.
+
+2. Open the notebook in Google Colab or a compatible Jupyter Notebook environment.
+
+3. Obtain the required gene expression data and probe annotation files using the dataset links above.
+
+4. Upload or connect the required files to the notebook environment and update file paths as needed.
+
+5. Run the notebook cells in order to reproduce the completed data-processing steps and available outputs.
+
+**Current Progress**
+
+The repository documents the selected research question, dataset sources, and current Python-based analysis. The notebook provides a record of the work completed to date, including data processing and any generated tables, figures, or quality checks.
+
