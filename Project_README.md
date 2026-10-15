@@ -1,6 +1,8 @@
 # Group_7_BMEN_600
 BMEN 600 Term Project
+
 Team 7
+
 Julii Ruta, Ashley Pehar, Sophia Hall, and Madalyn Arsenault
 
 Biomedical Problem: Affect of hormonal birth control on gene expression related to maintenance of extracellular matrix (ECM).
