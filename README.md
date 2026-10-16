@@ -30,7 +30,7 @@ Group_7_BMEN_600/
 └── References/
 │   ├── Gene Symbol to Gene Names.pdf
 │    └── README.md*
-├── Project_Overview_README.md
+├── README.md
 ├── Project_Schedule.md
 ```
 
@@ -74,7 +74,7 @@ Required Python packages depend on the operations performed in the notebook and 
 
 2. Open the notebook in Google Colab or a compatible Jupyter Notebook environment.
 
-3. Obtain the required gene expression data and probe annotation files using the dataset links above.
+3. Obtain the required gene expression data and probe annotation files using either the dataset links above, or the files "(GENE EXPRES.) GSE137765_series_matrix" and "(PROBE IDs) GPL6244-17930" found under the References folder.
 
 4. Upload or connect the required files to the notebook environment and update file paths as needed.
 
