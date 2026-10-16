@@ -7,7 +7,7 @@ Julii Ruta, Ashley Pehar, Sophia Hall, and Madalyn Arsenault
 
 Biomedical Problem: Affect of hormonal birth control on gene expression related to maintenance of extracellular matrix (ECM).
 
-Potential Research Question: Does hormonal contraceptive use alter expression of extracellular matrix (ECM) genes in endometrial tissue compared with a non-hormonal control subset?
+Research Question: How do different hormonal contraceptive methods affect ECM-related gene expression among levonorgestrel-releasing intrauterine system users, combined oral contraceptive users, and non-contraceptive controls?
 
 Open Data Set: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE137765&utm
 
